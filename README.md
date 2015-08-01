@@ -1,5 +1,5 @@
-# LIRIKlive
-**this app  runs on a custom modded web browser for less lag and better playback**
+* LIRIKlive a pc app for lirks live twitch feed 
+**this app  runs on a custom modded web browser for less lag and better video playback**
 http://i.imgur.com/4Eu1pzM.png
 
 
