@@ -1,6 +1,6 @@
 # LIRIKlive
 **this app  runs on a custom modded web browser for less lag and better playback**
-
+http://i.imgur.com/4Eu1pzM.png
 
 
 
