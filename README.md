@@ -7,7 +7,7 @@ http://i.imgur.com/4Eu1pzM.png
 **BUGS** 
 * no full screen 
 * login windo size bug 
-* app cup bug
+* app cpu bug
 * 64 bit /32 bit compiling bug
 
 **TO DO LIST**
