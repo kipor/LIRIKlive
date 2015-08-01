@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:$safeprojectname$"
+        xmlns:awe="http://schemas.awesomium.com/winfx" x:Class="MainWindow"
+        mc:Ignorable="d"
+        Title="$safeprojectname$" Height="1025.5" Width="1805.154" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Icon="cat (1).ico">
+    <Grid Margin="0,0,2,-2">
+
+        <awe:WebControl HorizontalAlignment="Left" Width="1436" Source="http://player.twitch.tv/?channel=lirik" ViewType="Window"/>
+        <awe:WebControl Margin="1436,0,0,0" Source="http://www.twitch.tv/lirik/chat?popout=" ViewType="Window"/>
+
+    </Grid>
+</Window>
