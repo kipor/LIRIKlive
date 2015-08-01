@@ -6,7 +6,8 @@ http://i.imgur.com/4Eu1pzM.png
 
 **BUGS** 
 * no full screen 
-
+* login windo size bug 
+* app cup bug
 
 **TO DO LIST**
 * new player 
