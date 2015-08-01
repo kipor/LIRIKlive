@@ -8,6 +8,7 @@ http://i.imgur.com/4Eu1pzM.png
 * no full screen 
 * login windo size bug 
 * app cup bug
+* 64 bit /32 bit compiling bug
 
 **TO DO LIST**
 * new player 
