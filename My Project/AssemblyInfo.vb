@@ -11,10 +11,10 @@ Imports System.Windows
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WpfApplication1")>
+<Assembly: AssemblyTitle("$safeprojectname$")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WpfApplication1")>
+<Assembly: AssemblyProduct("WpfApplication5")>
 <Assembly: AssemblyCopyright("Copyright ©  2015")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: ComVisible(false)>
@@ -42,7 +42,7 @@ Imports System.Windows
 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("4999a1f0-2bbb-4598-a11d-d537959bf944")>
+<Assembly: Guid("9b4da14b-3c00-4893-b498-2109d341f4b4")>
 
 ' Version information for an assembly consists of the following four values:
 '

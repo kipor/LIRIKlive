@@ -15,13 +15,16 @@
   </TemplateData>
   <TemplateContent>
     <Project TargetFileName="LIRIKlive.vbproj" File="LIRIKlive.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="6.png">6.png</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="Application.xaml">Application.xaml</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="Application.xaml.vb">Application.xaml.vb</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="cat (1).ico">cat (1).ico</ProjectItem>
-      <ProjectItem ReplaceParameters="true" TargetFileName="MainWindow.xaml">MainWindow.xaml</ProjectItem>
-      <ProjectItem ReplaceParameters="true" TargetFileName="MainWindow.xaml.vb">MainWindow.xaml.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="fileclose.png">fileclose.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LIRIKlive.xaml">LIRIKlive.xaml</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="LIRIKlive.xaml.vb">LIRIKlive.xaml.vb</ProjectItem>
       <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="false" TargetFileName="app.manifest">app.manifest</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
         <Folder Name="MyExtensions" TargetFolderName="MyExtensions">
           <ProjectItem ReplaceParameters="true" TargetFileName="MyWpfExtension.vb">MyWpfExtension.vb</ProjectItem>
@@ -31,6 +34,8 @@
         <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
       </Folder>
+      <ProjectItem ReplaceParameters="false" TargetFileName="WpfApplication5_1_TemporaryKey.pfx">WpfApplication5_1_TemporaryKey.pfx</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="WpfApplication5_TemporaryKey.pfx">WpfApplication5_TemporaryKey.pfx</ProjectItem>
     </Project>
   </TemplateContent>
 </VSTemplate>
